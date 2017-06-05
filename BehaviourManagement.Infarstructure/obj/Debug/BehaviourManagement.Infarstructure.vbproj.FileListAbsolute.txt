@@ -1,0 +1,40 @@
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.dll
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.pdb
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.xml
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.Resources.resources
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.vbproj.GenerateResource.Cache
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.dll
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.xml
+\\cbucknellx\c$\Users\cbucknell\Documents\Visual Studio 2010\Projects\DISD Work\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.pdb
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.dll
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.pdb
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.xml
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.Resources.resources
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.vbproj.GenerateResource.Cache
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.dll
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.xml
+\\fatman\e$\DISD Solutions\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.pdb
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.dll
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.pdb
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.xml
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.Resources.resources
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.vbproj.GenerateResource.Cache
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.dll
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.xml
+C:\Users\cpathirana\Documents\Visual Studio 2012\Projects\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.pdb
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.dll
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.pdb
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.xml
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.Resources.resources
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.vbproj.GenerateResource.Cache
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.dll
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.xml
+C:\Behaviour Management System\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.pdb
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.dll
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.pdb
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\bin\Debug\BehaviourManagement.Infarstructure.xml
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.Resources.resources
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.vbproj.GenerateResource.Cache
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.dll
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.xml
+E:\UATSolutions\Behaviour Management System-2015\BehaviourManagement.Infarstructure\obj\Debug\BehaviourManagement.Infarstructure.pdb
